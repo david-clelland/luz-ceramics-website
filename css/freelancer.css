@@ -109,6 +109,7 @@ section h2 {
     padding-bottom: 1.5rem;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
+   
   }
   #mainNav .navbar-brand {
     font-size: 2em;
@@ -318,9 +319,6 @@ a:focus, a:hover, a:active {
   background-image: linear-gradient(to bottom,rgba(0,0,0,.2),rgba(0,0,0,.2)), url('../img/portfolio/IMG_0235.jpg') !important;
   background-repeat: no-repeat;
   background-size: cover;
-
-
-
 }
 
 .bg-secondary {
