@@ -126,7 +126,7 @@ section h2 {
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #fff;
-  background-color: #0E0B06;
+  background-color: #FF000000;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
@@ -421,3 +421,4 @@ a:focus, a:hover, a:active {
 h4.stockist {
   font-weight: 700;
 }
+
