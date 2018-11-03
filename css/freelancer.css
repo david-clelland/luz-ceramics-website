@@ -18,8 +18,9 @@ h6 {
   font-family: 'Quicksand';
   text-align: center;
 }
-hr.page {
-  color: white;
+hr {
+  border-color: white;
+  width: 25%;
 }
 
 hr.star-light,
