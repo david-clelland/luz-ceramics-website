@@ -18,9 +18,9 @@ h6 {
   font-family: 'Quicksand';
   text-align: center;
 }
-hr {
+hr.stockist {
   border-color: white;
-  width: 25%;
+  width: 5%;
 }
 
 hr.star-light,
@@ -410,9 +410,14 @@ a:focus, a:hover, a:active {
 }
 
 #stockists {
-  height: 100vh
+  height: 100vh;
+  text-align: center;
 }
 
 .list-inline{
   text-align: center;
+}
+
+h4.stockist {
+  font-weight: 700;
 }
